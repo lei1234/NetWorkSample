@@ -1,0 +1,11 @@
+E:\MyGithub\SocketServerSample\bin\Debug\netcoreapp2.1\SocketServerSample.deps.json
+E:\MyGithub\SocketServerSample\bin\Debug\netcoreapp2.1\SocketServerSample.runtimeconfig.json
+E:\MyGithub\SocketServerSample\bin\Debug\netcoreapp2.1\SocketServerSample.runtimeconfig.dev.json
+E:\MyGithub\SocketServerSample\bin\Debug\netcoreapp2.1\SocketServerSample.dll
+E:\MyGithub\SocketServerSample\bin\Debug\netcoreapp2.1\SocketServerSample.pdb
+E:\MyGithub\SocketServerSample\obj\Debug\netcoreapp2.1\SocketServerSample.csprojAssemblyReference.cache
+E:\MyGithub\SocketServerSample\obj\Debug\netcoreapp2.1\SocketServerSample.csproj.CoreCompileInputs.cache
+E:\MyGithub\SocketServerSample\obj\Debug\netcoreapp2.1\SocketServerSample.AssemblyInfoInputs.cache
+E:\MyGithub\SocketServerSample\obj\Debug\netcoreapp2.1\SocketServerSample.AssemblyInfo.cs
+E:\MyGithub\SocketServerSample\obj\Debug\netcoreapp2.1\SocketServerSample.dll
+E:\MyGithub\SocketServerSample\obj\Debug\netcoreapp2.1\SocketServerSample.pdb
